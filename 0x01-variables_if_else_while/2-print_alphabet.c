@@ -9,7 +9,7 @@ int main(void)
 {
 	char lc;
 
-	for {lc = 'a'; lc < z 'z'; l c<= z);
+	for {lc = 'a'; lc < z 'z'; lc <= z);
 	{
 		putchar(lc);
 	}
