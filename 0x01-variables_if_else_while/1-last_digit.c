@@ -18,4 +18,4 @@ int main(void)
 	a = n % 10;
 
 
-	if (
+	if #r
